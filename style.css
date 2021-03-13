@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+
+}
+header{
+    background-color: lightblue;
+    border-radius: 10px;
+}
+header img{
+    margin:10 px;
+    padding :10px;
+}
+h1{
+    text-align: center;
+    color:blueviolet;
+}
+footer p{background-color: greenyellow;}
+.abc{
+    background-color:wheat
+}
+nav a{
+     text-decoration:none;
+    background-color:blue;
+    color:white;
+    font-size: 20px;
+    border:blueviolet;
+    border-radius:10px;
+    margin:15px;
+    padding:5px;
+}
+nav{
+    padding:10px
+}
+.lox{
+    background-color: burlywood;
+    border-radius: 10px;
+    padding:5px;
+}
+.cola{
+    background-color: burlywood;
+    border-radius: 10px;
+    padding:5px;
+}
+main{
+    margin: 10px;
+}
+p{
+    font-size:20px;
+}
+h2{
+    background-color:goldenrod;
+    border-radius: 10px;
+    padding: 5px;
+}
+main a{
+    text-decoration:none;
+    background-color:gold;
+    color:white;
+    font-size: 20px;
+    border:blueviolet;
+    border-radius:10px;
+    margin:15px;
+    padding:5px;
+}
